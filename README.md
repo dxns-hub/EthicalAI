@@ -11,7 +11,7 @@ We are dedicated to providing access and opportunities for persons with disabili
 - **Wise Fool's Wisdom**: Embrace mistakes with humor to grow and learn from them.
 
 ## Get Involved
-Join us in making a difference! <http://www.amiai.org/> - currently under development
+Join us in making a difference! <http://www.amiai.foundation/>
 
 ## Follow Us
 Stay updated with our latest news and events. 
