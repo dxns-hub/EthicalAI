@@ -1,4 +1,4 @@
-# Welcome to Ami. Foundation
+# Ethhical AI standard
 
 ## Our Mission
 We are dedicated to providing access and opportunities for persons with disabilities in their work lives, fostering a sense of community and belonging.
@@ -8,10 +8,7 @@ We are dedicated to providing access and opportunities for persons with disabili
 - **Strength**: Inspired by the resilience of our community.
 - **Nurturing**: Creating a supportive environment for growth and success.
 - **Exploration**: Encouraging innovation and new possibilities.
-- **Wise Fool's Wisdom**: Embrace mistakes with humor to grow and learn from them.
-
-## Get Involved
-Join us in making a difference! <http://www.amiai.foundation/>
+- **Perspective**: Embrace mistakes with humor to grow and learn from them.
 
 ## Follow Us
 Stay updated with our latest news and events. 
@@ -32,7 +29,7 @@ Stay updated with our latest news and events.
 - **Transparency**: Provide clear explanations of model decisions.
 - **Privacy**: Protect user data and ensure confidentiality.
 - **Accountability**: Maintain responsibility for AI outcomes.
-- **Wise Fool's Wisdom**: Embrace mistakes with humor to grow and learn from them.
+- **Perspective**: Embrace mistakes with humor to grow and learn from them.
 
 ## Components
 - **Data Handling**: Tools for data preprocessing and bias detection.
